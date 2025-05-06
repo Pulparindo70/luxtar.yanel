@@ -90,7 +90,7 @@ function App() {
           <div className="flex items-center justify-center gap-4">
             <img src={ubicacionIcon} className="w-5 h-5" />
             <a
-              href="https://maps.app.goo.gl/FezFCmAUEEvaP7uS9"
+              href="https://maps.app.goo.gl/LNkefZtUH54TEGyq6"
               target="_blank"
               rel="noopener noreferrer"
               className="text-base font-syne hover:text-gray-300"
