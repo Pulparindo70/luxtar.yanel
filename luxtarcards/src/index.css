@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+.font-syne {
+  font-family: 'Syne', sans-serif;
+}
+
+.font-monse {
+  font-family: 'Montserrat', sans-serif;
+}
